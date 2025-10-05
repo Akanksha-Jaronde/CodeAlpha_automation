@@ -47,9 +47,9 @@ Automate the process of organizing images by moving all `.jpg` files from one fo
 ---
 
 ## 🧩 Project Details
--Task: Automate file organization
+- Task: Automate file organization
 
-- Goal: Move ```.jpg files automatically
+- Goal: Move .jpg files automatically
 
 - Key Concepts: **os**, **shutil**, file handling
 
