@@ -27,11 +27,12 @@ Automate the process of organizing images by moving all `.jpg` files from one fo
 
   destination_folder =
 "C:/Users/akanksha_jaronde/Pictures/JPG_Files"
+
+ ---
  
----
  3. **Run the script**
- ```bash
- -python move_jpg_files.py
+ bash
+ python move_jpg_files.py
 ---
    
 ## 🪄 Example Output
@@ -52,7 +53,7 @@ Automate the process of organizing images by moving all `.jpg` files from one fo
 **Key Concepts:** os, shutil, file handling
 **Difficulty Level:** Beginner
 **Duration:** < 10 minutes
-=---
+---
 
 ## 📚 Author
 
