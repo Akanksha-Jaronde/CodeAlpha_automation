@@ -36,22 +36,26 @@ Automate the process of organizing images by moving all `.jpg` files from one fo
 ---
    
 ## 🪄 Example Output
-**📁 Created folder:** C:/Users/YourName/Pictures/JPG_Files
+- **📁 Created folder:** C:/Users/YourName/Pictures/JPG_Files
 
-**✅ Moved:** image1.jpg
+- **✅ Moved:** image1.jpg
 
-**✅ Moved:** photo2.jpg
+- **✅ Moved:** photo2.jpg
 
-**🎉 Successfully moved 2 .jpg files to 'C:/Users/YourName/Pictures/JPG_Files'.**
+- **🎉 Successfully moved 2 .jpg files to 'C:/Users/YourName/Pictures/JPG_Files'.**
 
 ---
 
 ## 🧩 Project Details
-Task: Automate file organization
-Goal: Move '''.jpg files automatically
-Key Concepts: os, shutil, file handling
-Difficulty Level: Beginner
-Duration: < 10 minutes
+-Task: Automate file organization
+
+-Goal: Move '''.jpg files automatically
+
+-Key Concepts: os, shutil, file handling
+
+-Difficulty Level: Beginner
+
+-Duration: < 10 minutes
 
 
 ## 📚 Author
