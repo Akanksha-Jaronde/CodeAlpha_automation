@@ -19,23 +19,39 @@ Automate the process of organizing images by moving all `.jpg` files from one fo
    ```bash
    git clone https://github.com/akanksha_jaronde/python-automation-jpg.git
    cd python-automation-jpg
+---
+ 2. **Open the script** move_jpg_files.py and update the folder paths:
+
+ source_folder = "C:/Users/akanksha_jaronde/Downloads"
+ destination_folder = "C:/Users/akanksha_jaronde/Pictures/JPG_Files"
+---
+ 3. **Run the script**
+ bash
+ python move_jpg_files.py
+---
    
 ## 🪄 Example Output
-📁 Created folder: C:/Users/YourName/Pictures/JPG_Files
-✅ Moved: image1.jpg
-✅ Moved: photo2.jpg
-🎉 Successfully moved 2 .jpg files to 'C:/Users/YourName/Pictures/JPG_Files'.
+**📁 Created folder:** C:/Users/YourName/Pictures/JPG_Files
+
+**✅ Moved:** image1.jpg
+
+**✅ Moved:** photo2.jpg
+
+**🎉 Successfully moved 2 .jpg files to 'C:/Users/YourName/Pictures/JPG_Files'.**
+
+---
 
 ## 🧩 Project Details
 
-Task: Automate file organization
-Goal: Move .jpg files automatically
-Key Concepts: os, shutil, file handling
-Difficulty Level: Beginner
-Duration: < 10 minutes
-   
+**Task**: Automate file organization
+**Goal**: Move .jpg files automatically
+**Key Concepts:** os, shutil, file handling
+**Difficulty Level:** Beginner
+**Duration:** < 10 minutes
+=---
+
 ## 📚 Author
 
-Developed by Akanksha Jaronde — as part of a Python automation practice project.
+Developed by **Akanksha Jaronde** — as part of a Python automation practice project.
 
 Would you like me to make you a **GitHub repository description and tags (for the repo homepage)** too — so it looks professional on your GitHub profile?
