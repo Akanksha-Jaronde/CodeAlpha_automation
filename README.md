@@ -22,8 +22,8 @@ Automate the process of organizing images by moving all `.jpg` files from one fo
 ---
  2. **Open the script** move_jpg_files.py and update the folder paths:
 
- source_folder = "C:/Users/akanksha_jaronde/Downloads"
- destination_folder = "C:/Users/akanksha_jaronde/Pictures/JPG_Files"
+source_folder = "C:/Users/akanksha_jaronde/Downloads"
+ destination_folder = "C:/Users/akanksha_jaronde/Pictures/JPG_Files"   
 ---
  3. **Run the script**
  bash
