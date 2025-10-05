@@ -22,11 +22,11 @@ Automate the process of organizing images by moving all `.jpg` files from one fo
 ---
  2. **Open the script** move_jpg_files.py and update the folder paths:
     
-  source_folder =
-"C:/Users/akanksha_jaronde/Downloads"
+    source_folder =
+      “C:/Users/akanksha_jaronde/Pictures/JPG\_Files”
 
-  destination_folder =
-"C:/Users/akanksha_jaronde/Pictures/JPG_Files"
+    destination_folder =
+      "C:/Users/akanksha_jaronde/Pictures/JPG_Files"
 
  ---
  
@@ -60,5 +60,5 @@ Automate the process of organizing images by moving all `.jpg` files from one fo
 
 ## 📚 Author
 
-Developed by **Akanksha Jaronde** — as part of a Python automation practice project.
+Developed by **Akanksha_Jaronde** — as part of a Python automation practice project.
 
