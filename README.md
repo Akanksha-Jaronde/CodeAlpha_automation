@@ -21,8 +21,11 @@ Automate the process of organizing images by moving all `.jpg` files from one fo
    cd python-automation-jpg
 ---
  2. **Open the script** move_jpg_files.py and update the folder paths:
+
  source_folder = "C:/Users/YourName/Downloads"
+ 
  destination_folder = "C:/Users/YourName/Pictures/JPG_Files"
+ 
 ---
  3. **Run the script**
  bash
@@ -53,4 +56,3 @@ Automate the process of organizing images by moving all `.jpg` files from one fo
 
 Developed by **Akanksha Jaronde** — as part of a Python automation practice project.
 
-Would you like me to make you a **GitHub repository description and tags (for the repo homepage)** too — so it looks professional on your GitHub profile?
