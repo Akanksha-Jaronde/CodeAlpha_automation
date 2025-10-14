@@ -1,0 +1,19 @@
+import os
+import shutil
+
+# Set source and destination directories
+source_folder = 'path/to/source_folder'
+target_folder = 'path/to/target_folder'
+
+# Make sure the target directory exists
+os.makedirs(target_folder, exist_ok=True)
+
+# List all files in the source directory
+for filename in os.listdir(source_folder):
+    if filename.lower().endswith('.jpg'):
+        # Build full file paths
+        src_file = os.path.join(source_folder, filename)
+        dst_file = os.path.join(target_folder, filename)
+        # Move the file
+        shutil.move(src_file, dst_file)
+        print(f"Moved: {filename}")
